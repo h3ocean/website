@@ -9,4 +9,4 @@ Required image files inside `/images`:
 
 This version has no shopping/buy system. It includes only brand storytelling, variants, email, and call contact links.
 ![image alt](https://github.com/h3ocean/website/blob/5ef3fd607a568977d55fe548e0019e90018551f4/bottle.png)
-![image alt]
+![image alt](https://github.com/h3ocean/website/blob/b4525a6ade611275571cc43498bb98bca157b242/mylogo.png)
